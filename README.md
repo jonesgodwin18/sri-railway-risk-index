@@ -71,6 +71,3 @@ Adjusted Premium = Base Premium x (1 + Risk Adjustment Factor)
 - Needs ongoing validation as infrastructure evolves
 - Requires IRDAI buy-in and standardization
 
-## Full Submission
-
-[Read the complete deck](./Mind_the_product_case_submission.pdf)
